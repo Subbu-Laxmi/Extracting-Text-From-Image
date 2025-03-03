@@ -34,8 +34,28 @@ This project is an **AI-Powered OCR-Based expense tracker** that extracts transa
 4️⃣ *(Upcoming)* **ML model categorizes expenses automatically**  
 5️⃣ *(Upcoming)* **Users can view spending trends via interactive dashboards**  
 
-## 📌 Installation Instructions
+## 1️⃣ Clone the Repository
+Open your terminal or command prompt and run:
+
+*![Link](https://github.com/Subbu-Laxmi/Extracting-Text-From-Image.git)
+
+Then, navigate into the project folder:
+
+  **cd AI-Powered-OCR-Expense-Tracker**
+
+## 2️⃣ Install Dependencies
 After cloning your repository, run the following command to install all dependencies:
 
-**pip install -r requirements.txt**
+  **pip install -r requirements.txt**
 
+##3️⃣Run the Flask Application
+Once dependencies are installed, start your Flask app:
+
+  **python app.py**
+If everything is set up correctly, you'll see output like:
+
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Now, open your browser and go to http://127.0.0.1:5000/ to use your app! 🎯
+
+## 🚀 You're All Set!
+Now your project is successfully cloned and running. Let me know if you need any further assistance! 😊
