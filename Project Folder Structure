@@ -1,0 +1,15 @@
+AI-Powered-OCR-Expense-Tracker/
+  │── app.py                # Main Flask application
+  │
+  ├───static/               # Static files (CSS, JS, images)
+  │   ├── css/              # Stylesheets
+  │   │   ├── styles.css
+  │   ├── js/               # JavaScript files
+  │   │   ├── script.js
+  │   ├── uploads/          # Folder for uploaded receipt images
+  │
+  ├───templates/            # HTML templates
+  │   ├── base.html         # Base template (Reusable layout)
+  │   ├── upload.html       # Upload page
+ 
+
