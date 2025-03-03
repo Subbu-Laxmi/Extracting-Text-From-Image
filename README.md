@@ -63,7 +63,11 @@ Once dependencies are installed, start your Flask app:
 If everything is set up correctly, you'll see output like:
 
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+   
 Now, open your browser and go to http://127.0.0.1:5000/ to use your app! 🎯
 
 ## 🚀 You're All Set!
+
+
 Now your project is successfully cloned and running. Let me know if you need any further assistance! 😊
