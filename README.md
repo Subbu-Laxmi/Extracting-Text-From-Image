@@ -55,7 +55,7 @@ After cloning your repository, run the following command to install all dependen
 
   **pip install -r requirements.txt**
 
-## 3️⃣Run the Flask Application
+## 3️⃣ Run the Flask Application
 Once dependencies are installed, start your Flask app:
 
   **python app.py**
@@ -67,7 +67,7 @@ If everything is set up correctly, you'll see output like:
    
 Now, open your browser and go to http://127.0.0.1:5000/ to use your app! 🎯
 
-## 🚀 You're All Set!
+##  You're All Set!
 
 
-Now your project is successfully cloned and running. Let me know if you need any further assistance! 😊
+Now your project is successfully cloned and running. Let me know if you need any further assistance! 
