@@ -34,3 +34,8 @@ This project is an **AI-Powered OCR-Based expense tracker** that extracts transa
 4️⃣ *(Upcoming)* **ML model categorizes expenses automatically**  
 5️⃣ *(Upcoming)* **Users can view spending trends via interactive dashboards**  
 
+## 📌 Installation Instructions
+After cloning your repository, run the following command to install all dependencies:
+
+**pip install -r requirements.txt**
+
