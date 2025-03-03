@@ -37,11 +37,11 @@ This project is an **AI-Powered OCR-Based expense tracker** that extracts transa
 ## 1️⃣ Clone the Repository
 Open your terminal or command prompt and run:
 
-*![](https://github.com/Subbu-Laxmi/Extracting-Text-From-Image.git)
+**(https://github.com/Subbu-Laxmi/Extracting-Text-From-Image.git)**
 
 Then, navigate into the project folder:
 
-  **cd AI-Powered-OCR-Expense-Tracker**
+  **cd Extracting-Text-From-Image**
 
 ## 2️⃣ Install Dependencies
 After cloning your repository, run the following command to install all dependencies:
