@@ -34,6 +34,13 @@ This project is an **AI-Powered OCR-Based expense tracker** that extracts transa
 4️⃣ *(Upcoming)* **ML model categorizes expenses automatically**  
 5️⃣ *(Upcoming)* **Users can view spending trends via interactive dashboards**  
 
+
+## 📌 Cloning Your GitHub Repository & Setting Up the Project
+
+
+To clone and set up your AI-Powered OCR-Based Expense Tracker project, follow these steps:
+
+
 ## 1️⃣ Clone the Repository
 Open your terminal or command prompt and run:
 
@@ -52,6 +59,7 @@ After cloning your repository, run the following command to install all dependen
 Once dependencies are installed, start your Flask app:
 
   **python app.py**
+
 If everything is set up correctly, you'll see output like:
 
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
