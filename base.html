@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{% block title %}Expense Tracker{% endblock %}</title>
+        <link rel="stylesheet"
+            href="{{ url_for('static', filename='style.css') }}">
+        <link rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        {% block styles %}{% endblock %}
+    </head>
+    <body>
+        <header>
+            <h1>AI Powered - OCR Based Expense Tracker</h1>
+            <br>
+            <nav>
+                <a href="/home"><i class="fas fa-home"></i> Home</a>
+                <a href="/upload"> <i class="fas fa-upload"></i> Upload Receipt</a>                
+                <a href="/manual_expenses" class="nav-link"> <i class="fas fa-edit"></i> Manual Entry </a>
+                <a href="/set_income"> <i class="fas fa-wallet"></i> Set Income</a>
+                <a href="/set_budget"> <i class="fas fa-money-bill-wave"></i> Set Budget</a>
+                <a href="/dashboard" > <i class="fas fa-tachometer-alt"></i> Dashboard</a>
+                <a href="/view_expenses"> <i class="fas fa-eye"></i> View Expense</a>                
+                <a href="/budget_recommendation" > <i class="fas fa-lightbulb"></i> Budget Recommendations </a>
+                <a href="/budget_plan"><i class="fas fa-chart-pie"></i> Budget Plan</a>
+                <a href="/export"><i class="fas fa-file-export"></i> Export Data</a>
+            </nav>            
+        </header>
+        <main style="background-image: url('static/image1.jpg')">
+            {% block content %}{% endblock %}
+        </main>
+
+        <footer>
+            <p>&copy; 2025 AI Powered - OCR Based Expense Tracker With Smart
+                Budget Recommendations. All rights reserved.</p>
+        </footer>
+    </body>
+</html>
