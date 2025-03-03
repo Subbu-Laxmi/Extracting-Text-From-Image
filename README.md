@@ -13,7 +13,7 @@ This project is an **AI-Powered OCR-Based expense tracker** that extracts transa
 ✔️ **Upload Receipt Images**  
 ✔️ **Extract Text from Receipts using OCR (Tesseract + OpenCV)**  
 ✔️ **Preprocess Images for Better OCR Accuracy**  
-✔️ **Store Transaction Details in a Database**  
+✔️ **Store Transaction Details in a Database** *(Upcoming Feature)*   
 ✔️ **ML-Based Expense Categorization** *(Upcoming Feature)*  
 ✔️ **Expense Tracking & Visualization** *(Upcoming Feature)*  
 
