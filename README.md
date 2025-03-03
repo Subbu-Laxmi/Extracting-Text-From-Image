@@ -25,7 +25,7 @@ This project is an **AI-Powered OCR-Based expense tracker** that extracts transa
 - **Frontend:** HTML, CSS, JavaScript  
 
 ## 📸 Screenshots  
-*(![Receipt Processing](https://github.com/user-attachments/assets/944c3fe6-2bc7-4471-8fe8-a3bd78e7caa4) 
+*(![Receipt Processing](https://github.com/user-attachments/assets/944c3fe6-2bc7-4471-8fe8-a3bd78e7caa4)*
 
 ## 🎯 How It Works  
 1️⃣ **User uploads a receipt image**  
