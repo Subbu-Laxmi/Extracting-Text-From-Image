@@ -1,0 +1,16 @@
+Flask==2.2.5              # Web framework for Python
+Werkzeug==2.2.3           # Flask dependency for WSGI applications
+Flask-SQLAlchemy==3.0.5   # ORM for database management
+Flask-Migrate==4.0.4      # Database migrations
+
+numpy==1.23.5            # For numerical computations
+opencv-python==4.7.0.72  # OpenCV for image processing
+pytesseract==0.3.10      # Tesseract OCR for text extraction
+Pillow==9.4.0            # Image processing library
+
+scikit-learn==1.2.1      # ML model for expense categorization (upcoming feature)
+pandas==1.5.3            # Data manipulation & analysis
+matplotlib==3.6.3        # Visualization of expenses (upcoming feature)
+seaborn==0.12.2          # Advanced data visualization
+
+gunicorn==20.1.0         # For deployment (if using Heroku or similar)
